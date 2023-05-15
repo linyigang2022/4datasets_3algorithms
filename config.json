@@ -1,0 +1,22 @@
+{
+  "description": "在 Covertype、Watch_acc、SUSY、HIGGS 四个数据集上复现 XGBoost、LightGBM、Bagging 三个算法",
+  "algorithm": "LightGBM",
+  "dataset": "HIGGS",
+
+  "Covertype": {
+    "name": "Covertype",
+    "path": "./dataset/covtype.data"
+  },
+  "Watch_acc": {
+    "name": "Watch_acc",
+    "path": ""
+  },
+  "SUSY": {
+    "name": "SUSY",
+    "path": ""
+  },
+  "HIGGS": {
+    "name": "HIGGS",
+    "path": "C:/dataset/HIGGS.csv"
+  }
+}
