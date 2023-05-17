@@ -15,9 +15,8 @@ git clone git@github.com:linyigang2022/4datasets_3algorithms.git
 2. 修改 config.json 文件
 
    - 修改algorithm参数，可选 XGBoost、LightGBM、Bagging
-- 修改dataset参数，可选 Covertype、Watch_acc、SUSY、HIGGS
+   - 修改dataset参数，可选 Covertype、Watch_acc、SUSY、HIGGS
    - 修改各个数据集下的path为本地数据集所在路径
-
 3. 运行 Runner.py
 
 
